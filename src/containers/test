@@ -1,0 +1,1582 @@
+{
+  "number": "EP01102260",
+  "phase": "EP",
+  "ver": "1",
+  "ver_date": "31/01/2001",
+  "lab": "V1",
+  "lang": "EN",
+  "parent": "0",
+  "claims": {
+    "claim": [
+      {
+        "clnum": "1",
+        "val": "??",
+        "dep": "A",
+        "C": "U",
+        "cat": "A",
+        "clsdocs": "",
+        "clarobjs": {
+          "lastid": "19",
+          "clarobj": {
+            "by": "auto",
+            "type": "concise",
+            "val": "1",
+            "active": "yes",
+            "id": "19"
+          }
+        },
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/1"
+          }
+        },
+        "features": {
+          "verbatim": "An adhesion type area sensor comprising a sensor portion, baying a plurality of pixels, formed on a sensor substrate, wherein: the plurality of pixels have a  photodiode , an EL element, and a plurality of thin  film  transistors.",
+          "feature": {
+            "desc": "An adhesion type area sensor comprising a sensor portion, baying a plurality of pixels, formed on a sensor substrate, wherein: the plurality of pixels have a  photodiode , an EL element, and a plurality of thin  film  transistors.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "2",
+        "val": "??",
+        "dep": "1",
+        "cat": "A",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/2"
+          }
+        },
+        "features": {
+          "head": "A sensor according to claim 1, wherein",
+          "verbatim": "A sensor according to claim 1, wherein the EL element has an anode, a cathode, and an EL layer formed between the anode and the cathode.",
+          "feature": {
+            "desc": "the EL element has an anode, a cathode, and an EL layer formed between the anode and the cathode.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "3",
+        "val": "??",
+        "dep": "1",
+        "cat": "A",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/3"
+          }
+        },
+        "features": {
+          "head": "A sensor according to claim 1, wherein",
+          "verbatim": "A sensor according to claim 1, wherein the photodiode has a cathode electrode, an anode electrode, and a photoelectric Conversion layer formed between the cathode electrode and the anode electrode.",
+          "feature": {
+            "desc": "the photodiode has a cathode electrode, an anode electrode, and a photoelectric Conversion layer formed between the cathode electrode and the anode electrode.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "4",
+        "val": "??",
+        "dep": "A",
+        "C": "U",
+        "cat": "A",
+        "clsdocs": "",
+        "clarobjs": {
+          "lastid": "18",
+          "clarobj": {
+            "by": "auto",
+            "type": "concise",
+            "val": "1",
+            "active": "yes",
+            "id": "18"
+          }
+        },
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/4"
+          }
+        },
+        "features": {
+          "verbatim": "An adhesion type area sensor comprising a sensor portion, having a plurality of pixels, formed on a substrate, wherein: the plurality of pixels have a photodiode, an EL element, a Switching TFT. an EL driver TFT, a reset TFT, a buffer TFT, and a selection TFT; the switching TFT and the EL driver TFT control light emitted from the EL element; the light emitted from the EL element is reflected on a subject and irradiated to the photodiode; and the photodjode, the reset TFT, the buffer TFT, and the, i. Ii. I rii: selection TFT generate an image signal from the light irradiated to the photodiode.",
+          "feature": {
+            "desc": "An adhesion type area sensor comprising a sensor portion, having a plurality of pixels, formed on a substrate, wherein: the plurality of pixels have a photodiode, an EL element, a Switching TFT. an EL driver TFT, a reset TFT, a buffer TFT, and a selection TFT; the switching TFT and the EL driver TFT control light emitted from the EL element; the light emitted from the EL element is reflected on a subject and irradiated to the photodiode; and the photodjode, the reset TFT, the buffer TFT, and the, i. Ii. I rii: selection TFT generate an image signal from the light irradiated to the photodiode.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "5",
+        "val": "??",
+        "dep": "4",
+        "cat": "A",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/5"
+          }
+        },
+        "features": {
+          "head": "A sensor according to claim 4, wherein",
+          "verbatim": "A sensor according to claim 4, wherein the EL element has an anode • a cathode, and an EL layer formed between the anode and the cathode.",
+          "feature": {
+            "desc": "the EL element has an anode • a cathode, and an EL layer formed between the anode and the cathode.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "6",
+        "val": "??",
+        "dep": "4",
+        "cat": "A",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/6"
+          }
+        },
+        "features": {
+          "head": "A sensor according to claim 4, wherein",
+          "verbatim": "A sensor according to claim 4, wherein the photodiode has a cathode electrode, an anode electrode, and a photoelectric conversion layer formed between the cathode electrode and the anode electrode.",
+          "feature": {
+            "desc": "the photodiode has a cathode electrode, an anode electrode, and a photoelectric conversion layer formed between the cathode electrode and the anode electrode.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "7",
+        "val": "??",
+        "dep": "A",
+        "C": "U",
+        "cat": "A",
+        "clsdocs": "",
+        "clarobjs": {
+          "lastid": "17",
+          "clarobj": {
+            "by": "auto",
+            "type": "concise",
+            "val": "1",
+            "active": "yes",
+            "id": "17"
+          }
+        },
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/7"
+          }
+        },
+        "features": {
+          "verbatim": "An adhesion type area sensor comprising a sensor portion, having a plurality of pixels, formed on a substrate, wherein: the plurality of pixels have a photodiode. an EL element, a switching TFT, an EL driver TFT, a reset TFT, a buffer TFT, a selection TFT; a source signal line; a gate signal line; an electric power source supply line for maintaining a constant electric potential; a reset gate signal line; a sensor gate signal line; a sensor output wiring connected to a constant electric current power supply; and a sensor electric power source line for maintaining a constant electric potential; a gate electrode of the switching TFT is connected to the gate signal line; one of a source region and a drain region of the switching TFT is connected to the source signal line. and the other is Connected to a gate electrode of the EL driver TFT; one of a source region and a drain region of the EL driver TFT is connected to the electric power source supply line. and the other is connected to the EL element; a source region of the reset TFT is connected to the sensor electric power source line; a drain region of the reset TFT is connected to a gate electrode of the buffer TFT and to the photodiode; a drain region of the buffer TFT is connected to the sensor electric power line; one of a source region and a drain region of the selection TFT is connected to the sensor output wiring. and the other is connected to a source region of the buffer TFT; a gate electrode of the selection TFT is connected to the sensor gate signal line; light emitted from the EL element is reflected on a subject and irradiated to the photodiode; and an image signal generated from the light irradiated to the photodjode is input to the sensor output wiring.",
+          "feature": {
+            "desc": "An adhesion type area sensor comprising a sensor portion, having a plurality of pixels, formed on a substrate, wherein: the plurality of pixels have a photodiode. an EL element, a switching TFT, an EL driver TFT, a reset TFT, a buffer TFT, a selection TFT; a source signal line; a gate signal line; an electric power source supply line for maintaining a constant electric potential; a reset gate signal line; a sensor gate signal line; a sensor output wiring connected to a constant electric current power supply; and a sensor electric power source line for maintaining a constant electric potential; a gate electrode of the switching TFT is connected to the gate signal line; one of a source region and a drain region of the switching TFT is connected to the source signal line. and the other is Connected to a gate electrode of the EL driver TFT; one of a source region and a drain region of the EL driver TFT is connected to the electric power source supply line. and the other is connected to the EL element; a source region of the reset TFT is connected to the sensor electric power source line; a drain region of the reset TFT is connected to a gate electrode of the buffer TFT and to the photodiode; a drain region of the buffer TFT is connected to the sensor electric power line; one of a source region and a drain region of the selection TFT is connected to the sensor output wiring. and the other is connected to a source region of the buffer TFT; a gate electrode of the selection TFT is connected to the sensor gate signal line; light emitted from the EL element is reflected on a subject and irradiated to the photodiode; and an image signal generated from the light irradiated to the photodjode is input to the sensor output wiring.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "8",
+        "val": "??",
+        "dep": "7",
+        "cat": "A",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/8"
+          }
+        },
+        "features": {
+          "head": "A sensor according to claim 7, wherein",
+          "verbatim": "A sensor according to claim 7, wherein the EL element has an anode, a cathode • and an EL layer formed between the anode and the cathode.",
+          "feature": {
+            "desc": "the EL element has an anode, a cathode • and an EL layer formed between the anode and the cathode.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "9",
+        "val": "??",
+        "dep": "8",
+        "cat": "A",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/9"
+          }
+        },
+        "features": {
+          "head": "A sensor according to claim 8. wherein",
+          "verbatim": "A sensor according to claim 8. wherein the EL driver TFT is a p-channel TFT when the anode of the EL element is connected to the source region or the drain region of the EL driver TFT. lo. A sensor according to claim 8, wherein the EL driver TFT is a n-channel TFT when the cathode of the EL element Is connected to the source region or the drain region of the EL driver TFT.",
+          "feature": {
+            "desc": "the EL driver TFT is a p-channel TFT when the anode of the EL element is connected to the source region or the drain region of the EL driver TFT. lo. A sensor according to claim 8, wherein the EL driver TFT is a n-channel TFT when the cathode of the EL element Is connected to the source region or the drain region of the EL driver TFT.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "10",
+        "val": "??",
+        "dep": "O",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/10"
+          }
+        },
+        "features": {
+          "verbatim": "ERROR PARSING:",
+          "feature": {
+            "desc": "ERROR PARSING:",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "11",
+        "val": "??",
+        "dep": "5",
+        "cat": "A",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/11"
+          }
+        },
+        "features": {
+          "head": "A sensor according to claim 5, wherein",
+          "verbatim": "A sensor according to claim 5, wherein the photodiode has a cathode electrode, an anode electrode, and a photoelectric conversion layer formed between the anode electrode and the cathode electrode.",
+          "feature": {
+            "desc": "the photodiode has a cathode electrode, an anode electrode, and a photoelectric conversion layer formed between the anode electrode and the cathode electrode.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "12",
+        "val": "??",
+        "dep": "1",
+        "cat": "A",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/12"
+          }
+        },
+        "features": {
+          "head": "A sensor according to claim li, wherein",
+          "verbatim": "A sensor according to claim li, wherein the reset TFT is an n-channel TFT. and the buffer TFT is a p-channel TFT. when the anode electrode of the photodiode is connected to the drain region of the reset TFT.",
+          "feature": {
+            "desc": "the reset TFT is an n-channel TFT. and the buffer TFT is a p-channel TFT. when the anode electrode of the photodiode is connected to the drain region of the reset TFT.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "13",
+        "val": "??",
+        "dep": "11",
+        "cat": "A",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/13"
+          }
+        },
+        "features": {
+          "head": "A sensor according to claim 11, wherein",
+          "verbatim": "A sensor according to claim 11, wherein the reset TFT is a p-channel TFT. and the buffer TFT is an n-channel TFT, when the cathode electrode of the photodiode is connected to the drain region of the reset TFT.",
+          "feature": {
+            "desc": "the reset TFT is a p-channel TFT. and the buffer TFT is an n-channel TFT, when the cathode electrode of the photodiode is connected to the drain region of the reset TFT.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "14",
+        "val": "??",
+        "dep": "O",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/14"
+          }
+        },
+        "features": {
+          "verbatim": "An adhesion type area sensor comprising a sensor portion 1 having a plurality of pixels. formed on a substrate, wherein: the plurality of pixels have a photodiode, an EL element, a switching TFT, an EL driver TFT. a reset TFT, a buffer TFT, a selection TFT; a source signal line; a gate signal line; an electric power source supply line for maintaining a constant electric potential; a reset gate signal line; a sensor gate signal line; a sensor output wiring connected to a constant electric current power supply; and a sensor electric power source line for maintaining a constant electric potential; a gate electrode of the switching TFT is connected to the gate signal line; one of a source region and a drain region of the switching TFT is connected to the source signal line, and the other is connected to a gate electrode of the EL driver TFT; one of a source region and a drain region of the EL driver TFT is connected to the electric power source supply line, and the other is connected to the EL element; a source region of the reset TFT is connected to the sensor electric power source line; a drain region of the reset TFT is connected to a gate electrode of the buffer TFT and to the photodiode; a drain region of the buffer TFT is connected to the sensor electric power line; one of a source region and a drain region of the selection TFT is connected to the sensor output wiring, and the other is connected to a source region of the buffer TFT; a gate electrode of the selection TFT is connected to the sensor gate signal line; the polarity of the switching TFT and selection TFT are the sanie; light emitted from the EL element is reflected on a subject and irradiated to the photodiode; and an image signal generated from the light irradiated to the photodiode is input to the sensor output wiring.",
+          "feature": {
+            "desc": "An adhesion type area sensor comprising a sensor portion 1 having a plurality of pixels. formed on a substrate, wherein: the plurality of pixels have a photodiode, an EL element, a switching TFT, an EL driver TFT. a reset TFT, a buffer TFT, a selection TFT; a source signal line; a gate signal line; an electric power source supply line for maintaining a constant electric potential; a reset gate signal line; a sensor gate signal line; a sensor output wiring connected to a constant electric current power supply; and a sensor electric power source line for maintaining a constant electric potential; a gate electrode of the switching TFT is connected to the gate signal line; one of a source region and a drain region of the switching TFT is connected to the source signal line, and the other is connected to a gate electrode of the EL driver TFT; one of a source region and a drain region of the EL driver TFT is connected to the electric power source supply line, and the other is connected to the EL element; a source region of the reset TFT is connected to the sensor electric power source line; a drain region of the reset TFT is connected to a gate electrode of the buffer TFT and to the photodiode; a drain region of the buffer TFT is connected to the sensor electric power line; one of a source region and a drain region of the selection TFT is connected to the sensor output wiring, and the other is connected to a source region of the buffer TFT; a gate electrode of the selection TFT is connected to the sensor gate signal line; the polarity of the switching TFT and selection TFT are the sanie; light emitted from the EL element is reflected on a subject and irradiated to the photodiode; and an image signal generated from the light irradiated to the photodiode is input to the sensor output wiring.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "15",
+        "val": "??",
+        "dep": "14",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/15"
+          }
+        },
+        "features": {
+          "head": "A sensor according to claim 14, wherein",
+          "verbatim": "A sensor according to claim 14, wherein the EL element has an anode, a cathode, and an EL layer formed between the anode and the cathode.",
+          "feature": {
+            "desc": "the EL element has an anode, a cathode, and an EL layer formed between the anode and the cathode.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "16",
+        "val": "??",
+        "dep": "15",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/16"
+          }
+        },
+        "features": {
+          "head": "A sensor according to claim 15. wherein",
+          "verbatim": "A sensor according to claim 15. wherein the EL driver TFT is a p-channel TFT when the anode of the EL element is connected to the source region or the drain region of the EL driver TFT.",
+          "feature": {
+            "desc": "the EL driver TFT is a p-channel TFT when the anode of the EL element is connected to the source region or the drain region of the EL driver TFT.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "17",
+        "val": "??",
+        "dep": "15",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/17"
+          }
+        },
+        "features": {
+          "head": "A sensor according to claim 15. wherein",
+          "verbatim": "A sensor according to claim 15. wherein the EL driver TFT is a n-channel TFT when the cathode of the EL element is connected to the source region or the drain region of the EL driver TFT.",
+          "feature": {
+            "desc": "the EL driver TFT is a n-channel TFT when the cathode of the EL element is connected to the source region or the drain region of the EL driver TFT.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "18",
+        "val": "??",
+        "dep": "14",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/18"
+          }
+        },
+        "features": {
+          "head": "A sensor according to claim 14, wherein",
+          "verbatim": "A sensor according to claim 14, wherein the photodiode has a cathode electrode 1 an anode electrode, and a photoelectric conversion layer formed between the anode electrode and the cathode electrode.",
+          "feature": {
+            "desc": "the photodiode has a cathode electrode 1 an anode electrode, and a photoelectric conversion layer formed between the anode electrode and the cathode electrode.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "19",
+        "val": "??",
+        "dep": "18",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/19"
+          }
+        },
+        "features": {
+          "head": "A sensor according to claim 18, wherein",
+          "verbatim": "A sensor according to claim 18, wherein the reset TFT is an n-channel TFT, and the buffer TFT is a p-channel TFT. when the anode electrode of the photodiode is connected to the drain region of the reset TFT.",
+          "feature": {
+            "desc": "the reset TFT is an n-channel TFT, and the buffer TFT is a p-channel TFT. when the anode electrode of the photodiode is connected to the drain region of the reset TFT.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "20",
+        "val": "??",
+        "dep": "18",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/20"
+          }
+        },
+        "features": {
+          "head": "A sensor according to claim 18, wherein",
+          "verbatim": "A sensor according to claim 18, wherein the reset TFT is a p-channel TFT, and the buffer TFT is an n-channel TFT, when the cathode electrode of the photodiode is connected to the drain region of the reset TFT.",
+          "feature": {
+            "desc": "the reset TFT is a p-channel TFT, and the buffer TFT is an n-channel TFT, when the cathode electrode of the photodiode is connected to the drain region of the reset TFT.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "21",
+        "val": "??",
+        "dep": "O",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/21"
+          }
+        },
+        "features": {
+          "verbatim": "An adhesion type area sensor comprising a sensor portion, having a plurality of pixels, formed on a substrate, wherein: the plurality of pixels have a photodiode, an EL element, a switching TFT, an EL driver TFT, a reset PFT, a buffer TFT, a selection TFT; a source signal line; a gate signal line; an electric power source supply line for maintaining a constant electric potential; a reset gate signal line; a sensor gate signal line; a sensor output wiring connected to a constant electric current power Supply; and a sensor electric power source line for maintaining a constant electric potential; a gate electrode of the switching TFT is connected to the gate signal line; one of a source region and a drain region of the switching TFT is connected to the source signal line, and the other is connected to a gate electrode of the EL driver ‘ITT; one of a source region and a drain region of the EL driver TFT is connected to the electric power source supply line, and the other is connected to the EL element; a source region of the reset TFT is connected to the sensor electric power source line; a drain region of the reset TFT is connected to a gate electrode of the buffer TFT and to the photocliode; a drain region of the buffer TFT is connected to the sensor electric power line; one of a source region and a drain region of the selection TFT is connected to the sensor output wiring, and the other is Connected to a source region of the buffer TFT; a gate electrode of the selection TFT is connected to the sensor gate signal line; the reset TFT and the selection TFP are Switched from an ON state to an OFF state, or from an OFF state to an ON state at the same time in accordance with the signal input to the reset gate signal line and the sensor gate signal line; one of the reset TFT and the selection TFT is in an ON State when the other is in an OFF state; light emitted from the EL element Is reflected on a subject and irradiated to the photodjode; and an image signal generated from the light irradiated to the photodjode is input to the sensor output wiring.",
+          "feature": {
+            "desc": "An adhesion type area sensor comprising a sensor portion, having a plurality of pixels, formed on a substrate, wherein: the plurality of pixels have a photodiode, an EL element, a switching TFT, an EL driver TFT, a reset PFT, a buffer TFT, a selection TFT; a source signal line; a gate signal line; an electric power source supply line for maintaining a constant electric potential; a reset gate signal line; a sensor gate signal line; a sensor output wiring connected to a constant electric current power Supply; and a sensor electric power source line for maintaining a constant electric potential; a gate electrode of the switching TFT is connected to the gate signal line; one of a source region and a drain region of the switching TFT is connected to the source signal line, and the other is connected to a gate electrode of the EL driver ‘ITT; one of a source region and a drain region of the EL driver TFT is connected to the electric power source supply line, and the other is connected to the EL element; a source region of the reset TFT is connected to the sensor electric power source line; a drain region of the reset TFT is connected to a gate electrode of the buffer TFT and to the photocliode; a drain region of the buffer TFT is connected to the sensor electric power line; one of a source region and a drain region of the selection TFT is connected to the sensor output wiring, and the other is Connected to a source region of the buffer TFT; a gate electrode of the selection TFT is connected to the sensor gate signal line; the reset TFT and the selection TFP are Switched from an ON state to an OFF state, or from an OFF state to an ON state at the same time in accordance with the signal input to the reset gate signal line and the sensor gate signal line; one of the reset TFT and the selection TFT is in an ON State when the other is in an OFF state; light emitted from the EL element Is reflected on a subject and irradiated to the photodjode; and an image signal generated from the light irradiated to the photodjode is input to the sensor output wiring.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "22",
+        "val": "??",
+        "dep": "21",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/22"
+          }
+        },
+        "features": {
+          "head": "A sensor according to claim 21, wherein",
+          "verbatim": "A sensor according to claim 21, wherein the EL element has an anode, a cathode, and an EL layer formed between the anode and the cathode.",
+          "feature": {
+            "desc": "the EL element has an anode, a cathode, and an EL layer formed between the anode and the cathode.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "23",
+        "val": "??",
+        "dep": "22",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/23"
+          }
+        },
+        "features": {
+          "head": "A sensor according to claim 22, wherein",
+          "verbatim": "the EL driver  TFT  is a p-channel  TFT  when the anode of the EL element is connected to the source region or the drain region of the EL driver  TFT .",
+          "feature": {
+            "desc": "the EL driver  TFT  is a p-channel  TFT  when the anode of the EL element is connected to the source region or the drain region of the EL driver  TFT .",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "24",
+        "val": "??",
+        "dep": "22",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/24"
+          }
+        },
+        "features": {
+          "verbatim": "A sensor according to claim 22, wherein the EL driver  TFT  is a n-channel  TFT  when the cathode of the EL element is connected to the source region or the drain region of the EL driver  TFT .",
+          "feature": {
+            "desc": "A sensor according to claim 22, wherein the EL driver  TFT  is a n-channel  TFT  when the cathode of the EL element is connected to the source region or the drain region of the EL driver  TFT .",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "25",
+        "val": "??",
+        "dep": "21",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/25"
+          }
+        },
+        "features": {
+          "verbatim": "A sensor according to claim 21. wherein the  photodiode  has a cathode electrode, an anode electrode, and a photoelectric conversion layer formed between the anode electrode and the cathode electrode.",
+          "feature": {
+            "desc": "A sensor according to claim 21. wherein the  photodiode  has a cathode electrode, an anode electrode, and a photoelectric conversion layer formed between the anode electrode and the cathode electrode.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "26",
+        "val": "??",
+        "dep": "1",
+        "cat": "A",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/26"
+          }
+        },
+        "features": {
+          "head": "A sensor according to claim 125, wherein",
+          "verbatim": "A sensor according to claim 125, wherein the reset TFT is an n-channel ITT, and the buffer TFT is a p-channel TFT. when the anode electrode of the photodjode is connected to the drain region of the reset TFT.",
+          "feature": {
+            "desc": "the reset TFT is an n-channel ITT, and the buffer TFT is a p-channel TFT. when the anode electrode of the photodjode is connected to the drain region of the reset TFT.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "27",
+        "val": "??",
+        "dep": "25",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/27"
+          }
+        },
+        "features": {
+          "head": "A sensor according to claim 25. wherein",
+          "verbatim": "A sensor according to claim 25. wherein the reset TFT is a p-channel TFT, and the buffer TFT is an n-channel TFT. when the cathode electrode of the photodiode is connected to the drain region of the reset TFT.",
+          "feature": {
+            "desc": "the reset TFT is a p-channel TFT, and the buffer TFT is an n-channel TFT. when the cathode electrode of the photodiode is connected to the drain region of the reset TFT.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "28",
+        "val": "??",
+        "dep": "O",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/28"
+          }
+        },
+        "features": {
+          "verbatim": "An adhesion type area sensor comprising a sensor portion, having a plurality of pixels, formed on a substrate, wherein: the plurality of pixels have a  photodiode , an EL element, a Switching  TFT , an EL driver  TFT . a reset  TFT . a buffer  TFT , a selection  TFT ; a source signal line; a gate signal line; an electric power source supply line for maintaining a constant electric potential; a reset gate signal line; a sensor gate signal line; a sensor output wiring Connected to a constant electric current power supply; and a sensor electric power Source line for maintaining a constant electric potential; a gate electrode of the switching  TFT  is connected to the gate signal line; one of a source region and a drain region of the Switching  TFT  is Connected to the source signal line, and the other is Connected to a gate electrode of the EL driver  TFT ; one of a source region and a drain region of the EL driver  PFT  is connected to the electric power source supply line, and the other is connected to the EL element; a source region of the reset  TFT  is connected to the sensor electric power source line; a drain region of the reset  TFT  is connected to a gate electrode of the buffer  TFT  and to the  photodjode ; a drain region of the buffer  TFT  is connected to the sensor electric power line; one of a source region and a drain region of the selection  TFT  is Connected to the sensor output wiring, and the other is Connected to a source region of the buffer  TFT ; a gate electrode of the selection  TFT  is connected to the gate signal line; the polarity of the switching  TFT  and the selection  TFT  are the same; the reset  TFT  and the selection  TFT  are switched from an ON state to an OFF state, or from an OFF state to an ON state at the  sarne  time in accordance with the signal input to the reset gate signal line and the sensor gate signal line; one of the reset  TFT  and the selection  TFT  is in an ON state when the other is in an OFF state; light emitted from the EL element is reflected on a subject and irradiated to the  photodiode ; and an image signal generated from the light irradiated to the  photodjode  is input to the sensor output wiring.",
+          "feature": {
+            "desc": "An adhesion type area sensor comprising a sensor portion, having a plurality of pixels, formed on a substrate, wherein: the plurality of pixels have a  photodiode , an EL element, a Switching  TFT , an EL driver  TFT . a reset  TFT . a buffer  TFT , a selection  TFT ; a source signal line; a gate signal line; an electric power source supply line for maintaining a constant electric potential; a reset gate signal line; a sensor gate signal line; a sensor output wiring Connected to a constant electric current power supply; and a sensor electric power Source line for maintaining a constant electric potential; a gate electrode of the switching  TFT  is connected to the gate signal line; one of a source region and a drain region of the Switching  TFT  is Connected to the source signal line, and the other is Connected to a gate electrode of the EL driver  TFT ; one of a source region and a drain region of the EL driver  PFT  is connected to the electric power source supply line, and the other is connected to the EL element; a source region of the reset  TFT  is connected to the sensor electric power source line; a drain region of the reset  TFT  is connected to a gate electrode of the buffer  TFT  and to the  photodjode ; a drain region of the buffer  TFT  is connected to the sensor electric power line; one of a source region and a drain region of the selection  TFT  is Connected to the sensor output wiring, and the other is Connected to a source region of the buffer  TFT ; a gate electrode of the selection  TFT  is connected to the gate signal line; the polarity of the switching  TFT  and the selection  TFT  are the same; the reset  TFT  and the selection  TFT  are switched from an ON state to an OFF state, or from an OFF state to an ON state at the  sarne  time in accordance with the signal input to the reset gate signal line and the sensor gate signal line; one of the reset  TFT  and the selection  TFT  is in an ON state when the other is in an OFF state; light emitted from the EL element is reflected on a subject and irradiated to the  photodiode ; and an image signal generated from the light irradiated to the  photodjode  is input to the sensor output wiring.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "29",
+        "val": "??",
+        "dep": "28",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/29"
+          }
+        },
+        "features": {
+          "verbatim": "A sensor according to claim 28 wherein the EL element has an anode, a cathode, and an EL layer formed between the anode and the cathode.",
+          "feature": {
+            "desc": "A sensor according to claim 28 wherein the EL element has an anode, a cathode, and an EL layer formed between the anode and the cathode.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "30",
+        "val": "??",
+        "dep": "29",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/30"
+          }
+        },
+        "features": {
+          "head": "A sensor according to claim 29. wherein",
+          "verbatim": "A sensor according to claim 29. wherein the EL driver TFT is a p-channel TFT when the anode of the EL element is Connected to the source region or the drain region of the EL driver TFT.",
+          "feature": {
+            "desc": "the EL driver TFT is a p-channel TFT when the anode of the EL element is Connected to the source region or the drain region of the EL driver TFT.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "31",
+        "val": "??",
+        "dep": "29",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/31"
+          }
+        },
+        "features": {
+          "head": "A sensor according to claim 29, wherein",
+          "verbatim": "the EL driver  TFT  is a n-channel  TFT  when the cathode of the EL element is Connected to the source region or the drain region of the EL driver  TFT .",
+          "feature": {
+            "desc": "the EL driver  TFT  is a n-channel  TFT  when the cathode of the EL element is Connected to the source region or the drain region of the EL driver  TFT .",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "32",
+        "val": "??",
+        "dep": "28",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/32"
+          }
+        },
+        "features": {
+          "verbatim": "A sensor according to claim 28. wherein the photodiode has a cathode electrode an anode electrode, and a photoelectric conversion layer formed between the anode electrode and the cathode electrode.",
+          "feature": {
+            "desc": "A sensor according to claim 28. wherein the photodiode has a cathode electrode an anode electrode, and a photoelectric conversion layer formed between the anode electrode and the cathode electrode.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "33",
+        "val": "??",
+        "dep": "32",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/33"
+          }
+        },
+        "features": {
+          "head": "A sensor according to claim 32. wherein",
+          "verbatim": "A sensor according to claim 32. wherein the reset TFT is an n-channel TFT. and the buffer TFT is a p-channel TFT. when the anode electrode of the photodjode is connected to the drain region of the reset TFT.",
+          "feature": {
+            "desc": "the reset TFT is an n-channel TFT. and the buffer TFT is a p-channel TFT. when the anode electrode of the photodjode is connected to the drain region of the reset TFT.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "34",
+        "val": "??",
+        "dep": "32",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/34"
+          }
+        },
+        "features": {
+          "head": "A sensor according to claim 32, wherein",
+          "verbatim": "A sensor according to claim 32, wherein the reset TFT is a p-channel TFT, and the buffer TFT is an n-channel TFT, when the cathode electrode of the photodjode is connected to the drain region of the reset TFT.",
+          "feature": {
+            "desc": "the reset TFT is a p-channel TFT, and the buffer TFT is an n-channel TFT, when the cathode electrode of the photodjode is connected to the drain region of the reset TFT.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "35",
+        "val": "??",
+        "dep": "A",
+        "C": "U",
+        "cat": "A",
+        "clsdocs": "",
+        "clarobjs": {
+          "lastid": "19",
+          "clarobj": {
+            "by": "auto",
+            "type": "concise",
+            "val": "1",
+            "active": "yes",
+            "id": "19"
+          }
+        },
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/35"
+          }
+        },
+        "features": {
+          "verbatim": "A display device comprising a sensor portion, having a plurality of pixels, formed on a substrate, wherein: the plurality of pixels have a  photodiode , an EL element, a switching  TFT . an EL driver  TFT . a reset  TFT . a buffer  TFT , and a selection  TFT ; light emitted from the EL element is controlled in accordance with the switching  TFT  and the EL driver  TFT ; and the sensor portion displays an image in accordance with the light emitted from the EL element; or the light emitted from the EL element is irradiated to the  photodjode  by being reflected on a subject. and an image signal is generated from the light irradiated to the  photodiode  in accordance with the  photodiode , the reset  TFT , the buffer  TFT , and the selection  TFT .",
+          "feature": {
+            "desc": "A display device comprising a sensor portion, having a plurality of pixels, formed on a substrate, wherein: the plurality of pixels have a  photodiode , an EL element, a switching  TFT . an EL driver  TFT . a reset  TFT . a buffer  TFT , and a selection  TFT ; light emitted from the EL element is controlled in accordance with the switching  TFT  and the EL driver  TFT ; and the sensor portion displays an image in accordance with the light emitted from the EL element; or the light emitted from the EL element is irradiated to the  photodjode  by being reflected on a subject. and an image signal is generated from the light irradiated to the  photodiode  in accordance with the  photodiode , the reset  TFT , the buffer  TFT , and the selection  TFT .",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "36",
+        "val": "??",
+        "dep": "35",
+        "cat": "A",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/36"
+          }
+        },
+        "features": {
+          "verbatim": "A device according to claim 35, wherein the EL element has an anode, a cathode • and an EL layer formed between the anode and the cathode.",
+          "feature": {
+            "desc": "A device according to claim 35, wherein the EL element has an anode, a cathode • and an EL layer formed between the anode and the cathode.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "37",
+        "val": "??",
+        "dep": "15",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/37"
+          }
+        },
+        "features": {
+          "verbatim": "A device according to claim 15, wherein the photodiode has a cathode electrode, an anode, and a photoelectric conversion layer formed between the cathode electrode and the anode electrode.",
+          "feature": {
+            "desc": "A device according to claim 15, wherein the photodiode has a cathode electrode, an anode, and a photoelectric conversion layer formed between the cathode electrode and the anode electrode.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "38",
+        "val": "??",
+        "dep": "15",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/38"
+          }
+        },
+        "features": {
+          "head": "A device according to claim 15, wherein",
+          "verbatim": "the display device has a touch pen and a touch panel.",
+          "feature": {
+            "desc": "the display device has a touch pen and a touch panel.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "39",
+        "val": "??",
+        "dep": "O",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/39"
+          }
+        },
+        "features": {
+          "verbatim": "A display device comprising a sensor portion, having a plurality of pixels, formed on a substrate, wherein: the plurality of pixels have a photodiode, an EL element, a switching TFT. an EL ðriver TFT, a reset TFT, a buffer TFT, a selection TFT; a source signal line; a gate signal line; an electric power source supply line for maintaining a constant electric potential; a reset gate signal line; a sensor gate signal line; a sensor output wiring connected to a constant electric current power supply; and a sensor electric power source line for maintaining a constant electric potential; a gate electrode of the switching TFT is connected to the gate signal line; one of a source region and a drain region of the switching TFT is connected to the source signal line, and the other is connected to a gate electrode of the EL driver TFT; one of a source region and a drain region of the EL driver TIT is connected to the electric power source supply line, and the other is connected to the EL element; a source region of the reset TFT is connected to the sensor electric power source line; a drain region of the reset TFT is connected to a gate electrode of the buffer TFT and to the photodjode; a drain region of the buffer TFT is connected to the sensor electric power line; one of a source region and a drain region of the selection TFT is connected to the sensor output wiring, and the other is connected to a source region of the buffer TFT; a gate electrode of the selection TFT is connected to the sensor gate signal line; light emitted from the EL element is controlled in accordance with the switching TFT and the EL driver TFT; and the sensor portion displays an image in accordance with the light emitted from the EL element; or the light emitted from the EL element is irradiated to the photodjode by being reflected on a subject, and an image signal is generated from the light irradiated to the photodiode in accordance with the photodiode, the reset TFT. the buffer TFT, and the selection TFT.",
+          "feature": {
+            "desc": "A display device comprising a sensor portion, having a plurality of pixels, formed on a substrate, wherein: the plurality of pixels have a photodiode, an EL element, a switching TFT. an EL ðriver TFT, a reset TFT, a buffer TFT, a selection TFT; a source signal line; a gate signal line; an electric power source supply line for maintaining a constant electric potential; a reset gate signal line; a sensor gate signal line; a sensor output wiring connected to a constant electric current power supply; and a sensor electric power source line for maintaining a constant electric potential; a gate electrode of the switching TFT is connected to the gate signal line; one of a source region and a drain region of the switching TFT is connected to the source signal line, and the other is connected to a gate electrode of the EL driver TFT; one of a source region and a drain region of the EL driver TIT is connected to the electric power source supply line, and the other is connected to the EL element; a source region of the reset TFT is connected to the sensor electric power source line; a drain region of the reset TFT is connected to a gate electrode of the buffer TFT and to the photodjode; a drain region of the buffer TFT is connected to the sensor electric power line; one of a source region and a drain region of the selection TFT is connected to the sensor output wiring, and the other is connected to a source region of the buffer TFT; a gate electrode of the selection TFT is connected to the sensor gate signal line; light emitted from the EL element is controlled in accordance with the switching TFT and the EL driver TFT; and the sensor portion displays an image in accordance with the light emitted from the EL element; or the light emitted from the EL element is irradiated to the photodjode by being reflected on a subject, and an image signal is generated from the light irradiated to the photodiode in accordance with the photodiode, the reset TFT. the buffer TFT, and the selection TFT.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "40",
+        "val": "??",
+        "dep": "39",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/40"
+          }
+        },
+        "features": {
+          "verbatim": "A device according to claim 39, wherein the EL element has an anode, a cathode, and an EL layer formed between the anode and the cathode.",
+          "feature": {
+            "desc": "A device according to claim 39, wherein the EL element has an anode, a cathode, and an EL layer formed between the anode and the cathode.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "41",
+        "val": "??",
+        "dep": "40",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/41"
+          }
+        },
+        "features": {
+          "head": "A device according to claim 40, wherein",
+          "verbatim": "A device according to claim 40, wherein the EL driver TFT is a p-channel TFT when the anode of the EL element is connected to the source region or the drain region of the EL driver TFT.",
+          "feature": {
+            "desc": "the EL driver TFT is a p-channel TFT when the anode of the EL element is connected to the source region or the drain region of the EL driver TFT.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "42",
+        "val": "??",
+        "dep": "40",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/42"
+          }
+        },
+        "features": {
+          "head": "A device according to claim 40. wherein",
+          "verbatim": "the EL driver  TFT  is a n-channel  TFT  when the cathode of the EL element is connected to the source region or the drain region of the EL driver  TFT .",
+          "feature": {
+            "desc": "the EL driver  TFT  is a n-channel  TFT  when the cathode of the EL element is connected to the source region or the drain region of the EL driver  TFT .",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "43",
+        "val": "??",
+        "dep": "39",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/43"
+          }
+        },
+        "features": {
+          "verbatim": "A device according to claim 39, wherein the  photodiode  has a cathode electrode, an anode electrode, and a photoelectric conversion layer formed between the anode electrode and the cathode electrode.",
+          "feature": {
+            "desc": "A device according to claim 39, wherein the  photodiode  has a cathode electrode, an anode electrode, and a photoelectric conversion layer formed between the anode electrode and the cathode electrode.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "44",
+        "val": "??",
+        "dep": "43",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/44"
+          }
+        },
+        "features": {
+          "head": "A device according to claim 43, wherein",
+          "verbatim": "A device according to claim 43, wherein the reset TFT is an n-channel TFT, and the buffer TFT is a p-channel TFT, when the anode electrode of the photodiode is connected to the drain region of the reset TFT.",
+          "feature": {
+            "desc": "the reset TFT is an n-channel TFT, and the buffer TFT is a p-channel TFT, when the anode electrode of the photodiode is connected to the drain region of the reset TFT.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "45",
+        "val": "??",
+        "dep": "43",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/45"
+          }
+        },
+        "features": {
+          "head": "A device according to claim 43, wherein",
+          "verbatim": "A device according to claim 43, wherein the reset TFT is an p-channel TFT, and the buffer TFT is a n-channel TFT, when the cathode electrode of the photodiode is connected to the drain region of the reset TFT.",
+          "feature": {
+            "desc": "the reset TFT is an p-channel TFT, and the buffer TFT is a n-channel TFT, when the cathode electrode of the photodiode is connected to the drain region of the reset TFT.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "46",
+        "val": "??",
+        "dep": "A",
+        "C": "U",
+        "cat": "A",
+        "clsdocs": "",
+        "clarobjs": {
+          "lastid": "19",
+          "clarobj": {
+            "by": "auto",
+            "type": "concise",
+            "val": "1",
+            "active": "yes",
+            "id": "19"
+          }
+        },
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/46"
+          }
+        },
+        "features": {
+          "verbatim": "A display device comprising a sensor portion, having a plurality of pixels, formed on a substrate, wherein: the plurality of pixels have a  photodiode , an EL  elemente  a Switching  TFT . an EL driver  TFT , a reset  TFT , a buffer  TFT , a selection  TFT ; a source signal line; a gate signal line; an electric power source supply line for maintaining a constant electric potential; a reset gate signal line; a sensor gate signal line; a sensor output wiring connected to a constant electric current power supply; and a sensor electric power source line for maintaining a constant electric potential; a gate electrode of the switching  TFT  is connected to the gate signal line; one of a source region and a drain region of the switching  TFT  is connected to the source signal line, and the other is connected to a gate electrode of the EL driver  TFT ; one of a source region and a drain region of the EL driver  TFT  is Connected to the electric power source supply line, and the other is connected to the EL element; a source region of the reset  TFT  is connected to the sensor electric power source line; a drain region of the reset  TFT  is connected to a gate electrode of the buffer  TFT  and to the  photodjode ; a drain region of the buffer  TFT  is connected to the sensor electric power line; one of a source region and a drain region of the selection  TFT  is connected to the sensor output wiring, and the other is Connected to a source region of the buffer  TFT ; a gate electrode of the selection  TFT  is connected to the sensor gate signal line; the reset  TFT  and the selection  TFT  are switched from an ON state to an OFF state, or from an OFF state to an ON state at the same time in accordance with the signal input to the reset gate signal line and the sensor gate signal line; one of the reset  TFT  and the selection  TFT  is in an ON state when the other is in an OFF state; light emitted from the EL element is controlled in accordance with the switching  TFT  and the EL driver  TFT ; and the sensor portion displays an image in accordance with the light emitted from the EL element; or the light emitted from the EL element is irradiated to the  photodiode  by being reflected by a subject, and an image signal is generated from the light irradiated to the  photodiode  in accordance with the  photodiode , the reset  TFT . the buffer  TFT , and the selection  TFT . 47.",
+          "feature": {
+            "desc": "A display device comprising a sensor portion, having a plurality of pixels, formed on a substrate, wherein: the plurality of pixels have a  photodiode , an EL  elemente  a Switching  TFT . an EL driver  TFT , a reset  TFT , a buffer  TFT , a selection  TFT ; a source signal line; a gate signal line; an electric power source supply line for maintaining a constant electric potential; a reset gate signal line; a sensor gate signal line; a sensor output wiring connected to a constant electric current power supply; and a sensor electric power source line for maintaining a constant electric potential; a gate electrode of the switching  TFT  is connected to the gate signal line; one of a source region and a drain region of the switching  TFT  is connected to the source signal line, and the other is connected to a gate electrode of the EL driver  TFT ; one of a source region and a drain region of the EL driver  TFT  is Connected to the electric power source supply line, and the other is connected to the EL element; a source region of the reset  TFT  is connected to the sensor electric power source line; a drain region of the reset  TFT  is connected to a gate electrode of the buffer  TFT  and to the  photodjode ; a drain region of the buffer  TFT  is connected to the sensor electric power line; one of a source region and a drain region of the selection  TFT  is connected to the sensor output wiring, and the other is Connected to a source region of the buffer  TFT ; a gate electrode of the selection  TFT  is connected to the sensor gate signal line; the reset  TFT  and the selection  TFT  are switched from an ON state to an OFF state, or from an OFF state to an ON state at the same time in accordance with the signal input to the reset gate signal line and the sensor gate signal line; one of the reset  TFT  and the selection  TFT  is in an ON state when the other is in an OFF state; light emitted from the EL element is controlled in accordance with the switching  TFT  and the EL driver  TFT ; and the sensor portion displays an image in accordance with the light emitted from the EL element; or the light emitted from the EL element is irradiated to the  photodiode  by being reflected by a subject, and an image signal is generated from the light irradiated to the  photodiode  in accordance with the  photodiode , the reset  TFT . the buffer  TFT , and the selection  TFT . 47.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "47",
+        "val": "??",
+        "dep": "46",
+        "cat": "A",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/47"
+          }
+        },
+        "features": {
+          "verbatim": "A device according to claim 46, wherein the EL element has an anode, a cathode, and an EL layer formed between the anode and the cathode.",
+          "feature": {
+            "desc": "A device according to claim 46, wherein the EL element has an anode, a cathode, and an EL layer formed between the anode and the cathode.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "48",
+        "val": "??",
+        "dep": "47",
+        "cat": "A",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/48"
+          }
+        },
+        "features": {
+          "head": "A device according to claim 47, wherein",
+          "verbatim": "A device according to claim 47, wherein the EL driver TFT is a p-channel TFT when the anode of the EL element is connected to the source region or the drain region of the EL driver TFT.",
+          "feature": {
+            "desc": "the EL driver TFT is a p-channel TFT when the anode of the EL element is connected to the source region or the drain region of the EL driver TFT.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "49",
+        "val": "??",
+        "dep": "47",
+        "cat": "A",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/49"
+          }
+        },
+        "features": {
+          "head": "A device according to claim 47, wherein",
+          "verbatim": "the EL driver  TFT  is a n-channel  TFT  when the cathode of the EL element is connected to the source region or the drain region of the EL driver  TFT .",
+          "feature": {
+            "desc": "the EL driver  TFT  is a n-channel  TFT  when the cathode of the EL element is connected to the source region or the drain region of the EL driver  TFT .",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "50",
+        "val": "??",
+        "dep": "46",
+        "cat": "A",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/50"
+          }
+        },
+        "features": {
+          "verbatim": "A device according to claim 46. wherein the  photodiode  has a cathode electrode, an anode electrode, and a photoelectric conversion layer formed between the anode electrode and the cathode electrode.",
+          "feature": {
+            "desc": "A device according to claim 46. wherein the  photodiode  has a cathode electrode, an anode electrode, and a photoelectric conversion layer formed between the anode electrode and the cathode electrode.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "51",
+        "val": "??",
+        "dep": "50",
+        "cat": "A",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/51"
+          }
+        },
+        "features": {
+          "head": "A device according to claim 50. wherein",
+          "verbatim": "A device according to claim 50. wherein the reset TFT is an n-channel TFT. and the buffer TFT is a p-channel TFT, when the anode electrode of the photodiode is connected to the drain region of the reset TFT.",
+          "feature": {
+            "desc": "the reset TFT is an n-channel TFT. and the buffer TFT is a p-channel TFT, when the anode electrode of the photodiode is connected to the drain region of the reset TFT.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "52",
+        "val": "??",
+        "dep": "50",
+        "cat": "A",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/52"
+          }
+        },
+        "features": {
+          "head": "A device according to claim 50. wherein",
+          "verbatim": "A device according to claim 50. wherein the reset TFT is an p-channel TFT, and the buffer TFT is a n-channel TFT. when the cathode electrode of the photodiode is connected to the drain region of the reset TFT.",
+          "feature": {
+            "desc": "the reset TFT is an p-channel TFT, and the buffer TFT is a n-channel TFT. when the cathode electrode of the photodiode is connected to the drain region of the reset TFT.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "53",
+        "val": "??",
+        "dep": "46",
+        "cat": "A",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/53"
+          }
+        },
+        "features": {
+          "head": "A device according to claim 46. wherein",
+          "verbatim": "the display device has a touch pen and a touch panel.",
+          "feature": {
+            "desc": "the display device has a touch pen and a touch panel.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "54",
+        "val": "??",
+        "dep": "A",
+        "C": "U",
+        "cat": "A",
+        "clsdocs": "",
+        "clarobjs": {
+          "lastid": "4",
+          "clarobj": {
+            "by": "auto",
+            "type": "concise",
+            "val": "1",
+            "active": "yes",
+            "id": "4"
+          }
+        },
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/54"
+          }
+        },
+        "features": {
+          "verbatim": "A display device comprising a sensor portion. having a plurality of pixels. formed on a sensor substrate, wherein: the plurality of pixels have a  photodiode . an EL element. a switching  TFT . an EL driver  TFT , a reset  TFT , a buffer  TFT , a selection  TFT ; a source signal line; a gate signal line; an electric power source supply line for maintaining a constant electric potential; a reset gate signal line; a sensor gate signal line; a sensor output wiring connected to a constant electric current power supply; and a sensor electric power source line for maintaining a constant electric potential; a gate electrode of the switching  TFT  is connected to the gate signal line; one of a source region and a drain region of the switching  TFT  is connected to the source signal line, and the other is connected to a gate electrode of the EL driver  TFT ; one of a source region and a drain region of the EL driver  TFT  is connected to the electric power source supply line, and the other is connected to the EL element; a source region of the reset  TFT  is connected to the sensor electric power source line; a drain region of the reset  TFT  is connected to a gate electrode of the buffer  TFT  and to the  photodiode ; a drain region of the buffer  TFT  is connected to the sensor electric power source line; one of a source region and a drain region of the selection  TFT  is connected to the sensor output wiring, and the other is connected to a source region of the buffer  TFT ; a gate electrode of the selection  TFT  is connected to the gate signal line; the polarity of the switching  TFT  and the selection  TFT  are the same line; light emitted from the EL element is controlled in accordance with the switching  TFT  and the EL driver  TFT ; and the sensor portion displays an image in accordance with the light emitted from the EL element; or the light emitted from the EL element is irradiated to the  photodiode  by being reflected by a subject, and an image signal is generated from the light irradiated to the  photodiode  in accordance with the  photodiode . the reset  TFT , the buffer  TFT . and the selection  TFT .",
+          "feature": {
+            "desc": "A display device comprising a sensor portion. having a plurality of pixels. formed on a sensor substrate, wherein: the plurality of pixels have a  photodiode . an EL element. a switching  TFT . an EL driver  TFT , a reset  TFT , a buffer  TFT , a selection  TFT ; a source signal line; a gate signal line; an electric power source supply line for maintaining a constant electric potential; a reset gate signal line; a sensor gate signal line; a sensor output wiring connected to a constant electric current power supply; and a sensor electric power source line for maintaining a constant electric potential; a gate electrode of the switching  TFT  is connected to the gate signal line; one of a source region and a drain region of the switching  TFT  is connected to the source signal line, and the other is connected to a gate electrode of the EL driver  TFT ; one of a source region and a drain region of the EL driver  TFT  is connected to the electric power source supply line, and the other is connected to the EL element; a source region of the reset  TFT  is connected to the sensor electric power source line; a drain region of the reset  TFT  is connected to a gate electrode of the buffer  TFT  and to the  photodiode ; a drain region of the buffer  TFT  is connected to the sensor electric power source line; one of a source region and a drain region of the selection  TFT  is connected to the sensor output wiring, and the other is connected to a source region of the buffer  TFT ; a gate electrode of the selection  TFT  is connected to the gate signal line; the polarity of the switching  TFT  and the selection  TFT  are the same line; light emitted from the EL element is controlled in accordance with the switching  TFT  and the EL driver  TFT ; and the sensor portion displays an image in accordance with the light emitted from the EL element; or the light emitted from the EL element is irradiated to the  photodiode  by being reflected by a subject, and an image signal is generated from the light irradiated to the  photodiode  in accordance with the  photodiode . the reset  TFT , the buffer  TFT . and the selection  TFT .",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "55",
+        "val": "??",
+        "dep": "54",
+        "cat": "A",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/55"
+          }
+        },
+        "features": {
+          "verbatim": "A device according to claim 54, wherein the EL element has an anode, a cathode, and an EL layer formed between the anode and the cathode.",
+          "feature": {
+            "desc": "A device according to claim 54, wherein the EL element has an anode, a cathode, and an EL layer formed between the anode and the cathode.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "56",
+        "val": "??",
+        "dep": "55",
+        "cat": "A",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/56"
+          }
+        },
+        "features": {
+          "head": "A device according to claim 55. wherein",
+          "verbatim": "A device according to claim 55. wherein the EL driver TFT is a p-channel TFT when the anode of the EL element is connected to the source region or the drain region of the EL driver TFT.",
+          "feature": {
+            "desc": "the EL driver TFT is a p-channel TFT when the anode of the EL element is connected to the source region or the drain region of the EL driver TFT.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "57",
+        "val": "??",
+        "dep": "55",
+        "cat": "A",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/57"
+          }
+        },
+        "features": {
+          "head": "A device according to claim 55, wherein",
+          "verbatim": "the EL driver  TFT  is a n-channel  TFT  when the cathode of the EL element is connected to the source region or the drain region of the EL driver  TFT .",
+          "feature": {
+            "desc": "the EL driver  TFT  is a n-channel  TFT  when the cathode of the EL element is connected to the source region or the drain region of the EL driver  TFT .",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "58",
+        "val": "??",
+        "dep": "54",
+        "cat": "A",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/58"
+          }
+        },
+        "features": {
+          "verbatim": "A device according to claim 54 wherein the  photodiode  has a cathode electrode, an anode electrode, and a photoelectric conversion layer formed between the anode electrode and the cathode electrode.",
+          "feature": {
+            "desc": "A device according to claim 54 wherein the  photodiode  has a cathode electrode, an anode electrode, and a photoelectric conversion layer formed between the anode electrode and the cathode electrode.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "59",
+        "val": "??",
+        "dep": "58",
+        "cat": "A",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/59"
+          }
+        },
+        "features": {
+          "head": "A device according to claim 58. wherein",
+          "verbatim": "A device according to claim 58. wherein the reset TFT is an n-channel TFT, and the buffer TFT is a p-channel TFT. when the anode electrode of the photodiode is connected to the drain region of the reset TFT.",
+          "feature": {
+            "desc": "the reset TFT is an n-channel TFT, and the buffer TFT is a p-channel TFT. when the anode electrode of the photodiode is connected to the drain region of the reset TFT.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "60",
+        "val": "??",
+        "dep": "58",
+        "cat": "A",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/60"
+          }
+        },
+        "features": {
+          "head": "A device according to claim 58 wherein",
+          "verbatim": "A device according to claim 58 wherein the reset TFT is an p-channel TFT and the buffer TFT is a n-channel TFT, when the cathode electrode of the photodiode is connected to the drain region of the reset TFT.",
+          "feature": {
+            "desc": "the reset TFT is an p-channel TFT and the buffer TFT is a n-channel TFT, when the cathode electrode of the photodiode is connected to the drain region of the reset TFT.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "61",
+        "val": "??",
+        "dep": "54",
+        "cat": "A",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/61"
+          }
+        },
+        "features": {
+          "head": "A device according to claim 54, wherein",
+          "verbatim": "A device according to claim 54, wherein the display device has a touch pen and a touch panel.",
+          "feature": {
+            "desc": "the display device has a touch pen and a touch panel.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "62",
+        "val": "??",
+        "dep": "A",
+        "C": "U",
+        "cat": "A",
+        "clsdocs": "",
+        "clarobjs": {
+          "lastid": "19",
+          "clarobj": {
+            "by": "auto",
+            "type": "concise",
+            "val": "1",
+            "active": "yes",
+            "id": "19"
+          }
+        },
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/62"
+          }
+        },
+        "features": {
+          "verbatim": "A display device comprising a sensor portion, having a plurality of pixels, formed on a sensor substrate, wherein: the plurality of pixels have a photodiOde, an EL element, a switching TFT, an EL driver TFT, a reset TFT, a buffer TFT, a selection TFT; a source signal line; a gate signal line; an electric power source supply line for maintaining a constant electric potential; a reset gate signal line; a sensor gate signal line; a sensor output wiring connected to a constant electric current power supply; and a sensor electric power source line for maintaining a constant electric potential; a gate electrode of the switching TFT is connected to the gate signal line; one of a source region and a drain region of the switching TFT is connected to the source signal line, and the other is connected to a gate electrode of the EL driver TFT; one of a source region and a drain region of the EL driver TFT is connected to the electric power source supply line, and the other is connected to the EL element; a source region of the reset TFT is connected to the sensor electric power source line; a drain region of the reset TFT is connected to a gate electrode of the buffer TFT and to the photodiode; a drain region of the buffer TFT is connected to the sensor electric power source line; one of a source region and a drain region of the selection TFT is connected to the sensor output wiring, and the other is connected to a source region of the buffer TFT; a gate electrode of the selection TFT is connected to the gate signal line; the polarity of the switching TFT and the selection TFT are the saine; the reset TFT and the selection TFT are switched from an ON state to an OFF state, or from an OFF state to an ON state at the saine time in accordance with the signal input to the reset gate signal line and the sensor gate signal line; one of the reset TFT and the selection TFT is in an ON state when the other is in an OFF state; light emitted from the EL element is controlled in accordance with the switching TFT and the EL driver TFT; and the sensor portion displays an image in accordance with the light emitted from the EL element; or the light emitted from the EL element is irradiated to the photodiode by being reflected by a subject. and an image signal is generated from the light irradiated to the photodiode in accordance with the photodiode. the reset TFT, the buffer TFT, and the selection TFT. 63. A device according to claim 62, wherein the EL element has an anode, a cathode, and an EL layer formed between the anode and the cathode.",
+          "feature": {
+            "desc": "A display device comprising a sensor portion, having a plurality of pixels, formed on a sensor substrate, wherein: the plurality of pixels have a photodiOde, an EL element, a switching TFT, an EL driver TFT, a reset TFT, a buffer TFT, a selection TFT; a source signal line; a gate signal line; an electric power source supply line for maintaining a constant electric potential; a reset gate signal line; a sensor gate signal line; a sensor output wiring connected to a constant electric current power supply; and a sensor electric power source line for maintaining a constant electric potential; a gate electrode of the switching TFT is connected to the gate signal line; one of a source region and a drain region of the switching TFT is connected to the source signal line, and the other is connected to a gate electrode of the EL driver TFT; one of a source region and a drain region of the EL driver TFT is connected to the electric power source supply line, and the other is connected to the EL element; a source region of the reset TFT is connected to the sensor electric power source line; a drain region of the reset TFT is connected to a gate electrode of the buffer TFT and to the photodiode; a drain region of the buffer TFT is connected to the sensor electric power source line; one of a source region and a drain region of the selection TFT is connected to the sensor output wiring, and the other is connected to a source region of the buffer TFT; a gate electrode of the selection TFT is connected to the gate signal line; the polarity of the switching TFT and the selection TFT are the saine; the reset TFT and the selection TFT are switched from an ON state to an OFF state, or from an OFF state to an ON state at the saine time in accordance with the signal input to the reset gate signal line and the sensor gate signal line; one of the reset TFT and the selection TFT is in an ON state when the other is in an OFF state; light emitted from the EL element is controlled in accordance with the switching TFT and the EL driver TFT; and the sensor portion displays an image in accordance with the light emitted from the EL element; or the light emitted from the EL element is irradiated to the photodiode by being reflected by a subject. and an image signal is generated from the light irradiated to the photodiode in accordance with the photodiode. the reset TFT, the buffer TFT, and the selection TFT. 63. A device according to claim 62, wherein the EL element has an anode, a cathode, and an EL layer formed between the anode and the cathode.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "63",
+        "val": "??",
+        "dep": "O",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/63"
+          }
+        },
+        "features": {
+          "verbatim": "ERROR PARSING:",
+          "feature": {
+            "desc": "ERROR PARSING:",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "64",
+        "val": "??",
+        "dep": "63",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/64"
+          }
+        },
+        "features": {
+          "head": "A device according to claim 63. wherein",
+          "verbatim": "A device according to claim 63. wherein the EL driver TFT is a p-channel TFT when the anode of the EL element is connected to the source region or the drain region of the EL driver TFT.",
+          "feature": {
+            "desc": "the EL driver TFT is a p-channel TFT when the anode of the EL element is connected to the source region or the drain region of the EL driver TFT.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "65",
+        "val": "??",
+        "dep": "63",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/65"
+          }
+        },
+        "features": {
+          "head": "A device according to claim 63. wherein",
+          "verbatim": "A device according to claim 63. wherein the EL driver. L TFT is a n-channel TFT when the cathode of the EL element is ! connected to the source region or the drain region of the EL driver TFT. 66. A device according to claim 62, wherein the photodiode has a cathode electrode, an anode electrode, and a photoelectric conversion layer formed between the anode electrode and the cathode electrode. 67. A device according to claim 66 • wherein the reset TFT is an n-channel TFT. and the buffer TFT is a p-channel TFT. when the anode electrode of the photodiode is connected to the drain region of the reset TFT.",
+          "feature": {
+            "desc": "the EL driver. L TFT is a n-channel TFT when the cathode of the EL element is ! connected to the source region or the drain region of the EL driver TFT. 66. A device according to claim 62, wherein the photodiode has a cathode electrode, an anode electrode, and a photoelectric conversion layer formed between the anode electrode and the cathode electrode. 67. A device according to claim 66 • wherein the reset TFT is an n-channel TFT. and the buffer TFT is a p-channel TFT. when the anode electrode of the photodiode is connected to the drain region of the reset TFT.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "66",
+        "val": "??",
+        "dep": "O",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/66"
+          }
+        },
+        "features": {
+          "verbatim": "ERROR PARSING:",
+          "feature": {
+            "desc": "ERROR PARSING:",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "67",
+        "val": "??",
+        "dep": "O",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/67"
+          }
+        },
+        "features": {
+          "verbatim": "ERROR PARSING:",
+          "feature": {
+            "desc": "ERROR PARSING:",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "68",
+        "val": "??",
+        "dep": "66",
+        "cat": "O",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/68"
+          }
+        },
+        "features": {
+          "head": "A device according to claim 66. wherein",
+          "verbatim": "A device according to claim 66. wherein the reset TFT is an p-channel TFT, and the buffer TFT is a n-channel TFT, when the cathode electrode of the photodiode is connected to the drain region of the reset TFT.",
+          "feature": {
+            "desc": "the reset TFT is an p-channel TFT, and the buffer TFT is a n-channel TFT, when the cathode electrode of the photodiode is connected to the drain region of the reset TFT.",
+            "passages": ""
+          }
+        }
+      },
+      {
+        "clnum": "69",
+        "val": "??",
+        "dep": "62",
+        "cat": "A",
+        "clsdocs": "",
+        "clarobjs": "",
+        "dims": {
+          "dim": {
+            "dn": "EP01102260",
+            "diff2": "EP01102260:1/69"
+          }
+        },
+        "features": {
+          "head": "A device according to claim 62, wherein",
+          "verbatim": "A device according to claim 62, wherein the display device has a touch pen and a touch panel.",
+          "feature": {
+            "desc": "the display device has a touch pen and a touch panel.",
+            "passages": ""
+          }
+        }
+      }
+    ]
+  },
+  "params": "",
+  "groups": {
+    "group": {
+      "groupargs": {
+        "doc": "A Priori"
+      }
+    }
+  }
+}
