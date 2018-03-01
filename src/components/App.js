@@ -2,7 +2,7 @@ import React from 'react'
 import { Switch, Route } from 'react-router-dom'
 import { injectGlobal, ThemeProvider } from 'styled-components'
 
-import { HomePage } from 'components'
+import { HomePage, ClaimsPage } from 'components'
 import { Logger } from 'containers'
 
 // https://github.com/diegohaz/arc/wiki/Styling
@@ -20,6 +20,7 @@ const App = () => {
       <ThemeProvider theme={theme}>
         <Switch>
           <Route path="/" component={HomePage} exact />
+          <Route path="/application/:app/claims/" component={ClaimsPage} />
         </Switch>
       </ThemeProvider>
       <Logger />

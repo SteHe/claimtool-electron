@@ -4,12 +4,14 @@ import { connect } from 'react-redux'
 // import { isPending, hasFailed } from 'redux-saga-thunk'
 import { fromIpc } from 'store/selectors'
 // import { resourceListReadRequest } from 'store/actions'
+import { Container } from 'reactstrap'
 
-import { ClaimList } from 'components'
+import { ClaimSets } from 'components'
+
 
 console.log(fromIpc)
 
-class ClaimListContainer extends Component {
+class ClaimSetsContainer extends Component {
   static propTypes = {
     list: PropTypes.arrayOf(PropTypes.object).isRequired,
     limit: PropTypes.number,
@@ -24,7 +26,11 @@ class ClaimListContainer extends Component {
 
   render() {
     const { list } = this.props
-    return <ClaimList {...{ list }} />
+    return (
+      <Container>
+        <ClaimSets {...{ list }} />
+      </Container>
+    )
   }
 }
 
@@ -32,4 +38,4 @@ const mapStateToProps = state => ({
   list: fromIpc.getClaimset(state),
 })
 
-export default connect(mapStateToProps)(ClaimListContainer)
+export default connect(mapStateToProps)(ClaimSetsContainer)

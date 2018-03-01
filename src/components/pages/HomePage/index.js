@@ -1,11 +1,15 @@
 // https://github.com/diegohaz/arc/wiki/Atomic-Design
 import React from 'react'
-import { ClaimList } from 'containers'
+import { Header } from 'components'
+import { ClaimSets, DossierForm, ClaimView } from 'containers'
 
 const HomePage = () => {
   return (
     <div>
-      <ClaimList limit={20} />
+      <Header />
+      <DossierForm />
+      <ClaimSets limit={20} />
+      <ClaimView />
     </div>
   )
 }

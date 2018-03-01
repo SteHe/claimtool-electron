@@ -1,28 +1,27 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-import { TableRow, TableCell, Button } from 'components'
+// import { Button } from 'reactstrap'
 
-const Claim = ({ number, phase, ver, ver_date, claims, ...props }) => {
+const Claim = (claim) => {
+  console.log(claim)
+  const { features, clnum } = claim
+  let { feature } = features
+  console.log(feature)
+  if (!Array.isArray(feature)) {
+    feature = [feature]
+  }
   return (
-    <TableRow {...props}>
-      <TableCell><Button>go</Button></TableCell>
-      <TableCell>{ver}</TableCell>
-      <TableCell>{number}</TableCell>
-      <TableCell>{phase}</TableCell>
-      <TableCell>{ver_date}</TableCell>
-      <TableCell>{claims.claim.length}</TableCell>
-      <TableCell><Button>edit</Button></TableCell>
-      <TableCell><Button>del</Button></TableCell>
-    </TableRow>
+    <div>
+      <p>{clnum}. {feature.map(ft => <span key={ft.desc}>{ft.desc}#<br /></span>)}</p>
+    </div>
   )
 }
 
 Claim.propTypes = {
-  number: PropTypes.string.isRequired,
-  phase: PropTypes.string,
-  ver: PropTypes.string.isRequired,
-  ver_date: PropTypes.string,
+  claim: PropTypes.objectOf(PropTypes.array),
 }
 
 export default Claim
+
+// {features.feature.map(ft => <p>{ft}</p>)}

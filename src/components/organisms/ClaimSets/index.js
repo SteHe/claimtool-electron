@@ -1,25 +1,27 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-import { Claim, Table } from 'components'
+import { ClaimSet, Table } from 'components'
 
 
-const ClaimList = ({
+const ClaimSets = ({
   list, ...props
 }) => {
   if (list.length) {
     console.log(list[0])
   }
   return (
-    <Table {...props}>
+    <div>
       {!list.length && <div>Loading</div>}
-      {list.map(set => <Claim key={set.ver} {...set} />)}
-    </Table>
+      <Table {...props}>
+        {list.map(set => <ClaimSet key={set.ver} {...set} />)}
+      </Table>
+    </div>
   )
 }
 
-ClaimList.propTypes = {
+ClaimSets.propTypes = {
   list: PropTypes.arrayOf(PropTypes.object).isRequired,
 }
 
-export default ClaimList
+export default ClaimSets

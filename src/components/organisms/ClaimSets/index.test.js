@@ -1,6 +1,6 @@
 import React from 'react'
 import { shallow } from 'enzyme'
-import ClaimList from '.'
+import ClaimSets from '.'
 
 const list = [
   { id: 1, title: 'title 1', body: 'body 1' },
@@ -8,7 +8,7 @@ const list = [
   { id: 3, title: 'title 3', body: 'body 3' },
 ]
 
-const wrap = (props = {}) => shallow(<ClaimList list={list} {...props} />)
+const wrap = (props = {}) => shallow(<ClaimSets list={list} {...props} />)
 
 it('renders props when passed in', () => {
   const wrapper = wrap({ id: 'foo' })

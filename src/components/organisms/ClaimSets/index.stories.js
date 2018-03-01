@@ -1,6 +1,6 @@
 import React from 'react'
 import { storiesOf } from '@storybook/react'
-import { ClaimList } from 'components'
+import { ClaimSets } from 'components'
 
 const list = [
   { id: 0, title: 'Post 1', body: 'Voluptate ullamco anim exercitation deserunt cillum ullamco.' },
@@ -9,10 +9,10 @@ const list = [
   { id: 3, title: 'Post 1', body: 'Voluptate ullamco anim exercitation deserunt cillum ullamco.' },
 ]
 
-storiesOf('ClaimList', module)
+storiesOf('ClaimSets', module)
   .add('default', () => (
-    <ClaimList list={list} />
+    <ClaimSets list={list} />
   ))
   .add('loading', () => (
-    <ClaimList list={[]} loading />
+    <ClaimSets list={[]} loading />
   ))
