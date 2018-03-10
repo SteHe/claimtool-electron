@@ -59,6 +59,7 @@ const config = createConfig([
     'process.env.PUBLIC_PATH': publicPath.replace(/\/$/, ''),
   }),
   addPlugins([
+    new webpack.IgnorePlugin(/^(fs|ipc)$/, /electron$/),
     new webpack.ProgressPlugin(),
     new HtmlWebpackPlugin({
       filename: 'index.html',
@@ -94,5 +95,4 @@ const config = createConfig([
   ]),
 ])
 
-module.exports = config
 module.exports = config

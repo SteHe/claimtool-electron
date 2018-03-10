@@ -3,7 +3,7 @@ import { Switch, Route } from 'react-router-dom'
 import { injectGlobal, ThemeProvider } from 'styled-components'
 
 import { HomePage, ClaimsPage } from 'components'
-import { Logger } from 'containers'
+import { Logger, Footer } from 'containers'
 
 // https://github.com/diegohaz/arc/wiki/Styling
 import theme from './themes/default'
@@ -23,6 +23,7 @@ const App = () => {
           <Route path="/application/:app/claims/" component={ClaimsPage} />
         </Switch>
       </ThemeProvider>
+      <Footer />
       <Logger />
     </div>
   )

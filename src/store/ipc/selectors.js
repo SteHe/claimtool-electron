@@ -6,6 +6,7 @@ export const initialState = {
   ordnum: 0,
   lang: '',
   keywords: '',
+  remarks: '',
   priority: '',
   claim_set: [],
   documents: [],
@@ -32,8 +33,10 @@ export const getDossier =  (state = initialState) =>
     title: getDossierState(state).title,
     priority: getDossierState(state).priority,
     number: getDossierState(state).number,
+    ordnum: getDossierState(state).ordnum,
     lang: getDossierState(state).lang,
     version: getDossierState(state).version,
     keywords: getDossierState(state).keywords,
+    remarks: getDossierState(state).remarks,
   })
 

@@ -1,7 +1,7 @@
 import React from 'react'
 
-import { Header, Footer } from 'components'
-import { ClaimView } from 'containers'
+import { Header } from 'components'
+import { ClaimView, Footer } from 'containers'
 
 const ClaimsPage = () => {
   return (

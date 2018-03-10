@@ -1,5 +1,7 @@
 const baseConfig = require('../../webpack.config')
 
+console.log(baseConfig)
+
 module.exports = storybookBaseConfig =>
   Object.assign({}, storybookBaseConfig, {
     entry: Object.assign({}, storybookBaseConfig.entry, {

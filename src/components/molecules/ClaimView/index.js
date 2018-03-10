@@ -3,6 +3,9 @@ import PropTypes from 'prop-types'
 
 import { Nav, NavLink, NavItem, Container } from 'reactstrap'
 
+import { NavLink as RRNavLink } from 'react-router-dom';
+
+
 import { Claim } from 'components'
 
 const ClaimView = (props) => {
@@ -14,16 +17,16 @@ const ClaimView = (props) => {
     <div>
       <Nav>
         <NavItem>
-          <NavLink href="#">Text</NavLink>
+          <NavLink to="/application/:app/claims/text" activeClassName="active" tag={RRNavLink}>Text</NavLink>
         </NavItem>
         <NavItem>
-          <NavLink href="#">Tree</NavLink>
+          <NavLink to="/application/:app/claims/tree" activeClassName="active" tag={RRNavLink}>Tree</NavLink>
         </NavItem>
         <NavItem>
-          <NavLink href="#">Compare</NavLink>
+          <NavLink to="/application/:app/claims/compare" activeClassName="active" tag={RRNavLink}>Compare</NavLink>
         </NavItem>
         <NavItem>
-          <NavLink href="#">Amendments</NavLink>
+          <NavLink to="/application/:app/claims/amend" activeClassName="active" tag={RRNavLink}>Amendments</NavLink>
         </NavItem>
       </Nav>
       <Container>
