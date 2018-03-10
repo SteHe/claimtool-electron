@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-import { Button, NavLink, NavItem } from 'reactstrap'
+import { Button, NavLink } from 'reactstrap'
 import { NavLink as RRNavLink } from 'react-router-dom';
 
 const ClaimSet = ({
@@ -15,7 +15,7 @@ const ClaimSet = ({
   return (
     <tr {...props}>
       <td>
-        <NavLink to={`/application/:app/claims/${ver}`} activeClassName="active" tag={RRNavLink}>{ver}</NavLink>
+        <NavLink to={`/application/:app/claims/${ver}`} className="btn btn-primary" activeClassName="active" tag={RRNavLink}>{ver}</NavLink>
       </td>
       <td>{number}</td>
       <td>{phase}</td>

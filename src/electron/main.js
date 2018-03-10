@@ -81,6 +81,8 @@ const MenuFunc = function () {
                   return
                 }
                 const json = parser.xml2json(data)
+                // TODO: assure that json is correct:
+                // single elements in a list are converted to objects not arrays of length 1
                 mainWindow.webContents.send('open', JSON.stringify(json))
               })
             })

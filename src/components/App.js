@@ -20,7 +20,7 @@ const App = () => {
       <ThemeProvider theme={theme}>
         <Switch>
           <Route path="/" component={HomePage} exact />
-          <Route path="/application/:app/claims/" component={ClaimsPage} />
+          <Route path="/application/:app/claims/:ver" component={ClaimsPage} />
         </Switch>
       </ThemeProvider>
       <Footer />

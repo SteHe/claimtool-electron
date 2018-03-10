@@ -3,14 +3,14 @@ import PropTypes from 'prop-types'
 
 import { Nav, NavLink, NavItem, Container } from 'reactstrap'
 
-import { NavLink as RRNavLink } from 'react-router-dom';
+import { NavLink as RRNavLink } from 'react-router-dom'
 
 
 import { Claim } from 'components'
 
 const ClaimView = (props) => {
   const { claims } = props
-  console.log(claims)
+  console.log('ClaimView/index', props)
   const { claim } = claims
   console.log(claim)
   return (
@@ -46,6 +46,8 @@ const ClaimView = (props) => {
 
 ClaimView.propTypes = {
   claims: PropTypes.objectOf(PropTypes.array),
+  location: PropTypes.object,
+  params: PropTypes.object,
 }
 
 export default ClaimView
